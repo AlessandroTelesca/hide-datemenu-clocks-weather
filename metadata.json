@@ -1,0 +1,10 @@
+{
+  "uuid": "hide-datemenu-clocks-weather@alessandrot",
+  "name": "Hide Date Menu Clocks & Weather",
+  "description": "Hides the World Clocks and Weather sections from the calendar/date menu. GNOME Clocks and GNOME Weather and their locations are left untouched.",
+  "shell-version": [
+    "50"
+  ],
+  "version": 1,
+  "url": "https://github.com/AlessandroTelesca/hide-datemenu-clocks-weather"
+}
