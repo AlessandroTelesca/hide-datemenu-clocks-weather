@@ -13,3 +13,5 @@ gnome-extensions pack --force . && gnome-extensions install --force hide-datemen
 then log out and in, and `gnome-extensions enable hide-datemenu-clocks-weather@alessandrot`.
 
 GNOME Shell 50.
+
+License: GPL-2.0-or-later, see `LICENSE`.
